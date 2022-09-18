@@ -34,3 +34,4 @@ jobs:
         run: |
           echo testing
           curl -s ifconfig.co/
+          bash script.sh
