@@ -33,4 +33,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo testing
-          curl google.com
+          curl ifconfig.co/
